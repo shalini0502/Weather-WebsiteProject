@@ -1,7 +1,7 @@
 # Real-Time Weather Monitoring System
 
 ## Objective:
-This project is a real-time weather monitoring system that retrieves weather data from the OpenWeatherMap API and provides daily weather summaries, real-time alerts, and advanced analytics based on user preferences.
+This project is a real-time weather monitoring system that retrieves weather data from the OpenWeatherMap API and provides daily weather summaries, real-time alerts, and advanced analytics based on user preferences.(Note- Go to **Master Branch**).
 
 ## Features:
 1. **Real-Time Weather Retrieval:** Continuously retrieves weather data for Indian metros like Delhi, Mumbai, Chennai, etc.
